@@ -5,4 +5,5 @@ description: my works
 
 
 Here is my TSA work:
-- [HTML_Version](silly.html)
+- [HTML Version](silly.html)
+- [Jupyter Notebook](silly.html)
