@@ -1,5 +1,6 @@
 ---
-layout: default
+titie: See, I can change the title!!!
+description: The Subtitle
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
